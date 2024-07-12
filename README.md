@@ -52,4 +52,9 @@ To deploy this project on your AWS environment, follow these steps:
    - Obtain the URL link of the API Gateway, which is generated during the deployment.
    - Insert this URL link into the script section of your HTML code in the web application. This will allow the web app to access the API Gateway and invoke the Lambda function.
 
+## Future Improvements
+- **Custom Domain**: Purchase a domain and use Amazon Route 53 to configure a custom domain for the web application.
+- **Enhanced User Interface**: Improve the web application's UI/UX for a better user experience.
+- **Additional Features**: Add more mathematical operations or other functionalities to make the application more versatile.
+- **Scalability**: Implement auto-scaling for Lambda functions and DynamoDB to handle increased traffic and data volume.
 
