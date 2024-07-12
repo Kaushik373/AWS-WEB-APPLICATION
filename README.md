@@ -12,6 +12,8 @@ The architecture involves the following components:
 - **API Gateway**: Receives HTTP requests from the frontend and triggers Lambda functions.
 - **Lambda Function**: Computes the power of two numbers passed via API Gateway.
 - **DynamoDB**: Stores the computed results.
+- ![architecture](https://github.com/user-attachments/assets/21ee1256-a876-4798-a120-17806c900e13)
+
 
 ## Deployment Steps
 To deploy this project on your AWS environment, follow these steps:
